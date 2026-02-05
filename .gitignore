@@ -43,7 +43,4 @@ ehthumbs.db
 Desktop.ini
 
 # Project specific
-*.xlsx
-*.canvas
-!example.xlsx
-!example.canvas
+
